@@ -1,0 +1,3 @@
+clear
+echo "COMPILING!"
+gcc -g -ansi -pedantic *.c -o termGB -l ncurses -lSDL

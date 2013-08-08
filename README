@@ -1,0 +1,22 @@
+TermGB: A terminal-based Nintendo GameBoy emulator written in ANSI C.
+
+
+What is is: Currently, it doesn't do much, many of the extended instructions
+are not implementented, and the graphics do not work yet, which is the current
+major hurdle.
+
+
+What it will be: An ncurses (or similar) based GameBoy emulator, with an
+adequate level of accuracy.
+
+
+A note about the source: This program has been written in a semi-tutorial
+manner. This method was chosen as when I began looking into writing this
+emulator I was relatively ignorant of all low level concepts of a computing
+system. In essence, I learned about the inner workings of a computer along
+with the advancement of this program. The tutorial style was as much for me
+as it was for anyone else attemping to learn about it for the first time as
+well.
+
+
+I have no affiliation with Nintendo and I claim to hold no trademarks or such.
